@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Juego3d", "Juego3d\Juego3d.vcxproj", "{70066C7E-1DFD-41C1-9D33-919544881DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70066C7E-1DFD-41C1-9D33-919544881DBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70066C7E-1DFD-41C1-9D33-919544881DBE}.Debug|Win32.Build.0 = Debug|Win32
+		{70066C7E-1DFD-41C1-9D33-919544881DBE}.Release|Win32.ActiveCfg = Release|Win32
+		{70066C7E-1DFD-41C1-9D33-919544881DBE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
