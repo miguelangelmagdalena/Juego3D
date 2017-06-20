@@ -22,8 +22,6 @@ del laberinto, y actualmente consta de 5 niveles.
 ## Video
 [El Laberinto de Cajas](https://www.youtube.com/watch?v=YD8Xyu3gzWk&feature=youtu.be)
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YD8Xyu3gzWk&feature=youtu.be/0.jpg)](http://www.youtube.com/watch?v=YD8Xyu3gzWk&feature=youtu.be "El Laberinto de Cajas")
-
 ## Bibliotecas usadas
 * GLFW
 * AntTweakBar
