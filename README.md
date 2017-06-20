@@ -7,23 +7,24 @@ pertinente compartirlo.
 Entonces, este proyecto consiste en un juego de un laberinto, que consiste en llegar al fin
 del laberinto, y actualmente consta de 5 niveles.
 
-##Vistas del juego
+## Vistas del juego
 ![alt text](/Imagenes/1.png "Pagina de inicio 1")
 ![alt text](/Imagenes/2.png "Pagina de inicio 1")
-![alt text](/Imagenes/2.png "Juego")
-![alt text](/Imagenes/2.png "Juego - activando pista")
-![alt text](/Imagenes/2.png "Juego - usando linterna 1")
-![alt text](/Imagenes/2.png "Juego - usando linterna 2")
-![alt text](/Imagenes/2.png "Juego - usando linterna 3")
-![alt text](/Imagenes/2.png "Juego - usando linterna 4")
-![alt text](/Imagenes/2.png "Juego - activando pista 2")
-![alt text](/Imagenes/2.png "Juego - mostrando menu")
+![alt text](/Imagenes/3.png "Juego")
+![alt text](/Imagenes/4.png "Juego - activando pista")
+![alt text](/Imagenes/5.png "Juego - usando linterna 1")
+![alt text](/Imagenes/6.png "Juego - usando linterna 2")
+![alt text](/Imagenes/7.png "Juego - usando linterna 3")
+![alt text](/Imagenes/8.png "Juego - usando linterna 4")
+![alt text](/Imagenes/9.png "Juego - activando pista 2")
+![alt text](/Imagenes/10.png "Juego - mostrando menu")
 
-##Video
-<a href="https://www.youtube.com/watch?v=YD8Xyu3gzWk&feature=youtu.be" 
-target="_blank"></a>
+## Video
+[El Laberinto de Cajas](https://www.youtube.com/watch?v=YD8Xyu3gzWk&feature=youtu.be)
 
-##Bibliotecas usadas
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YD8Xyu3gzWk&feature=youtu.be/0.jpg)](http://www.youtube.com/watch?v=YD8Xyu3gzWk&feature=youtu.be "El Laberinto de Cajas")
+
+## Bibliotecas usadas
 * GLFW
 * AntTweakBar
 * Glew
@@ -31,7 +32,7 @@ target="_blank"></a>
 * IrrKlang para importar sonido
 * ...
 
-##Guías que me ayudaron
+## Guías que me ayudaron
 
 * [Learn OpenGL Your #1 Resource for OpenGL ](https://learnopengl.com/#!Getting-started/OpenGL "Learnopengl.com")
 Me sirvió para guiarme en el uso de VBO, shaders, texturas, Skybox, lighting, text rendering FreeType, aplicar sonido IrrKlang
@@ -39,7 +40,7 @@ Me sirvió para guiarme en el uso de VBO, shaders, texturas, Skybox, lighting, t
 Me sirvió para guiarme sobre el uso de la cámara, aplicar fog dentro del shader
 * Entre otros...
 
-##Cosas que me gustaría agregar en un futuro
+## Cosas que me gustaría agregar en un futuro
 - [x] Lo básico está :smile:
 - [ ] Añadir más niveles :smile:
 - [ ] Mejorar la jugabilidad :sweat:
